@@ -26,7 +26,7 @@ const fetchData = () => {
 
 // Play the music
 var audio = $('.song')[0];
-audio.autoplay();
+audio.autoplay;
 
 // Animation Timeline
 const animationTimeline = () => {
